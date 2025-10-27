@@ -1,8 +1,8 @@
 # Life360 Remote Controller
 
-This project lets you control Life360 **remotely** from a server using a FastAPI server and websockets. There's also a cli if you want to use inside the terminal.
-It is designed to provide access to Life360 data (profile, circles, members, device locations) by remote-controlling an iOS app running on your own device.
-You can use this to access information -- information you'd already have acccess to based on your account -- to make applications with etc. have fun!
+This lets you Life360 **remotely** from a server using a FastAPI server and websockets. There's also a cli if you want to use inside the terminal.
+You get access to Life360 data (profile, circles, members, device locations) by remote-controlling an iOS app running on your own iphone.
+You can use this to access information you'd _already have_ acccess to based on your account -- to make applications with etc. have fun!
 
 I am not responsible for any misuse, damage, data loss, or legal consequences arising from the use of this tool. This project is intended for educational and personal purposes only. Use it at your own risk and ensure you comply with all applicable laws and the terms of service of Life360.
 
